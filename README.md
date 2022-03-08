@@ -1,2 +1,2 @@
 # churchapp
-Church subscription management app
+Church members subscription management app
